@@ -18,9 +18,10 @@
   * Number of Users: 1000
   * Number of Activites per User: 10
 
-### To run the application:
+### To Run the Application:
   * Open a terminal at project folder and start the server by running: \
-    dotnet fsi --langversion:preview server.fsx
+    &nbsp;&nbsp;&nbsp; dotnet fsi --langversion:preview server.fsx
   * Open another terminal at project folder and start the application by running: \
-    dotnet fsi --langversion:preview project4_1.fsx arg1 arg2
-  
+    &nbsp;&nbsp;&nbsp; ```dotnet fsi --langversion:preview project4_1.fsx arg1 arg2```
+     * arg1: Number of Users
+     * arg2: Number of Activites per User
