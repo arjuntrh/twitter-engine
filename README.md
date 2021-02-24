@@ -2,9 +2,7 @@
 
 * Simulated Twitter Engine with a client-server architecture implemented using AKKA's remote actor facility.
 * Functionalities implemented:
-  * Twitter Engine
-  * Twitter Client
-  * Twitter Engine and Client in separate processes
+  * Twitter Server and Client in separate processes
   * Register account
   * Subscribe users (Based on Zipf Distribution)
   * User Login and Logout
