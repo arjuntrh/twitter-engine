@@ -1,6 +1,6 @@
 # Twitter Engine
 
-* Simulated Twitter Engine with a client-server architecture implemented using AKKA remote actor facility.
+* Simulated Twitter Engine with a client-server architecture implemented using AKKA's remote actor facility.
 * Functionalities implemented:
   * Twitter Engine
   * Twitter Client
